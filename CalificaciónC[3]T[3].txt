@@ -1,0 +1,18 @@
+Trabajo-3 (T3) (C. Junio)	10.5/18
+Observaciones: FERNANDEZ BOSCH_PEDRO_76422233: 10.5
+
+FUERA DE PLAZO: -2
+
+CUESTIONARIO: 5
+Contestaciones incorrectas:4,5,7,8
+Contestaciones parciales: 1 ( incorrectos f y g)
+
+Ejercicios: 7.5
+
+1.- El parámetro scale se esperaba TRUE. El ajuste en el caso Radial no 
+
+es bueno (esta sobreajustado!)
+2.- Las reglas extraidas no son las de clasificación. La selección del 
+
+tamaño optimo no es correcta (o el árbol estimado no es correcto).
+3.- La curva de lambda para el test no es como se esperaba.
